@@ -2,7 +2,7 @@
 
 ### 言語
 
-Go | JavaScript | C#
+Go | JavaScript | C# | VBA
 
 ### フレームワーク等
 
